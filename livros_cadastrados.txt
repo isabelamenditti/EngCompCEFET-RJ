@@ -1,0 +1,20 @@
+
+LISTA DE LIVROS CADASTRADOS:
+
+NOME: aeds1
+ID: 2010001
+ANO DE PUBLICACAO: 2022
+CATEGORIA: Ciencia da computacao, informacao e generalidades
+EMPRESTIMO: 2112106gcom
+
+NOME: software
+ID: 2010002
+ANO DE PUBLICACAO: 2020
+CATEGORIA: Ciencia da computacao, informacao e generalidades
+EMPRESTIMO: 2112106gcom
+
+NOME: biblia
+ID: 2030001
+ANO DE PUBLICACAO: 1000
+CATEGORIA: Religiao
+EMPRESTIMO: 2111234gcom
